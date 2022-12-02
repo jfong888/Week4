@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JFong Lab04</string>
+    <string name="button">Login</string>
+    <string name="button2">Welcome To Next Page</string>
+    <string name="email">Enter your email address:</string>
+    <string name="password">Type your password:</string>
+    <string name="call">Call Number</string>
+    <string name="picture">Change Picture</string>
+    <string name="hintemail">Enter your email </string>
+    <string name="hintpassword">Enter your password </string>
+    <string name="hintphone">Enter a phone number </string>
+</resources>
